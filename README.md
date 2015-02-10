@@ -1,6 +1,6 @@
 # ipm-ecg-analysis
 
-This is an Java based open source electrocardiograph(ECG) analysis software. This project is imported project home from [Google Code](), approved by its GPL v2 lisence.
+This is an Java based open source electrocardiograph(ECG) analysis software. This project is imported project home from [Google Code](https://code.google.com/p/ipm-ecg-analysis/), approved by its GPL v2 lisence.
 
 ## Features
 
